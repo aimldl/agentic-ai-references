@@ -1,6 +1,6 @@
-# Curated List of Hands-on Labs
+# Curated List of Hands-on Lab
 
-Gemini Enterprise Agent Platform
+## Gemini Enterprise Agent Platform
 
 * Develop with Gemini 3: Multimodal, Thinking, and Tools, ⌛ , 2026-05-18,
   [Qwiklabs](https://explore.qwiklabs.com/course_templates/615448/labs/58833978) /
