@@ -8,8 +8,10 @@ This repository aims to progressively organize essential Agentic AI references.
 - This literature is structurally organized with brief overviews and key summaries.
 
 ## 📌 Three Pillars 
-> [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs): Original Sources 
+> [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs): Original Sources
+> 
 > [assets/](https://github.com/aimldl/agentic-ai-references/tree/main/assets): Execution & Support Assets
+> 
 > [architecture/](https://github.com/aimldl/agentic-ai-references/tree/main/architecture): Technical Blueprint
 
 ### 📖 [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs)
