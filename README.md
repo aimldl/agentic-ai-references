@@ -2,7 +2,7 @@
 
 This repository aims to progressively organize essential Agentic AI references.
 
-## 📄 CURATED-LIST.md
+## 📄 [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md)
 - The entry point and curated registry of must-read resources for understanding Agentic AI. 
 - It houses sorted links to academic papers and trusted industry articles.
 - This literature is structurally organized with brief overviews and key summaries.
@@ -13,7 +13,7 @@ This repository aims to progressively organize essential Agentic AI references.
 - `architecture/`: Technical Blueprint
 
 ### 📖 `docs/`
-- The storage for original documents linked in `CURATED-LIST.md`.
+- The storage for original documents linked in [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md).
 - Its purpose is to build a refined knowledge base that can serve as the core data source for future RAG pipelines.
 
 ### 🎨 `assets/`
@@ -27,5 +27,5 @@ This repository aims to progressively organize essential Agentic AI references.
 
 | Pillars | 📖 docs | 🎨 assets | 🏛️ architecture |
 | :--- | :--- | :--- | :--- |
-| Role | Refined knowledge basebase <br> for `CURATED-LIST.md` | Visual aids for readability and <br> lightweight assets for testing |  Technical specifications defining <br> system design and operations |
+| Role | Refined knowledge basebase <br> for [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md) | Visual aids for readability and <br> lightweight assets for testing |  Technical specifications defining <br> system design and operations |
 | Extensions | PDF, MD, JSON, HTML | PNG, JPG, SVG, WAV, MP3 | DRAWIO, SQL, JSON, Terraform |
