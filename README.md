@@ -25,9 +25,7 @@ This repository aims to progressively organize essential Agentic AI references.
 - This serves as the practical blueprint for future deployment and scalable system architecture.
 
 
-| Pillars | 📖 <br> `docs/` | 🎨 <br> `assets/` | 🏛️ <br> `architecture/` |
+| Pillars | 📖 docs | 🎨 assets | 🏛️ architecture |
 | :--- | :--- | :--- | :--- |
-| Role | Refined knowledge basebase for `CURATED-LIST.md` |  - Visual aids for readability <br> - lightweight assets for testing. |  Technical specifications defining <br> 
- - System Design
- - Operations |
+| Role | Refined knowledge basebase for `CURATED-LIST.md` |  - Visual aids for readability <br> - lightweight assets for testing. |  Technical specifications defining <br> - System Design <br> - Operations |
 | Extensions | PDF, MD, JSON, HTML | PNG, JPG, SVG, WAV, MP3 | DRAWIO, SQL, JSON, Terraform |
