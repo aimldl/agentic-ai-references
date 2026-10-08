@@ -2,7 +2,7 @@
 
 ## Gemini Enterprise Agent Platform
 
-* Develop with Gemini 3: Multimodal, Thinking, and Tools, ⌛ , 2026-05-18,
+* Develop with Gemini 3: Multimodal, Thinking, and Tools, ⌛ 1 hour 30 minutes, 2026-05-18,
   [Qwiklabs](https://explore.qwiklabs.com/course_templates/615448/labs/58833978) /
   [Google Skills](https://www.skills.google/focuses/104012?parent=catalog)
   
