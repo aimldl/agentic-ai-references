@@ -27,5 +27,5 @@ This repository aims to progressively organize essential Agentic AI references.
 
 | Pillars | 📖 docs | 🎨 assets | 🏛️ architecture |
 | :--- | :--- | :--- | :--- |
-| Role | Refined knowledge basebase <br> for [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md) | Visual aids for readability and <br> lightweight assets for testing |  Technical specifications defining <br> system design and operations |
+| Role | Refined knowledge basebase for <br> [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md) | Visual aids for readability and <br> lightweight assets for testing |  Technical specifications defining <br> system design and operations |
 | Extensions | PDF, MD, JSON, HTML | PNG, JPG, SVG, WAV, MP3 | DRAWIO, SQL, JSON, Terraform |
