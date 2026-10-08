@@ -8,9 +8,9 @@ This repository aims to progressively organize essential Agentic AI references.
 - This literature is structurally organized with brief overviews and key summaries.
 
 ## 📌 Three Pillars 
-- [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs): Original Sources 
-- [assets/](https://github.com/aimldl/agentic-ai-references/tree/main/assets): Execution & Support Assets
-- [architecture/](https://github.com/aimldl/agentic-ai-references/tree/main/architecture): Technical Blueprint
+> [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs): Original Sources 
+> [assets/](https://github.com/aimldl/agentic-ai-references/tree/main/assets): Execution & Support Assets
+> [architecture/](https://github.com/aimldl/agentic-ai-references/tree/main/architecture): Technical Blueprint
 
 ### 📖 [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs)
 - The storage for original documents linked in [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md).
@@ -28,4 +28,4 @@ This repository aims to progressively organize essential Agentic AI references.
 | Pillars | 📖 [docs/](https://github.com/aimldl/agentic-ai-references/tree/main/docs) | 🎨 [assets/](https://github.com/aimldl/agentic-ai-references/tree/main/assets) | 🏛️ [architecture/](https://github.com/aimldl/agentic-ai-references/tree/main/architecture) |
 | :--- | :--- | :--- | :--- |
 | Role | Refined knowledge <br> basebase for <br> [CURATED-LIST.md](https://github.com/aimldl/agentic-ai-references/blob/main/CURATED-LIST.md) | Visual aids for readability and <br> lightweight assets for testing |  Technical specifications defining <br> system design and operations |
-| Extensions | [pdf](https://github.com/aimldl/agentic-ai-references/tree/main/docs/pdf), [md](https://github.com/aimldl/agentic-ai-references/tree/main/docs/md), [json](https://github.com/aimldl/agentic-ai-references/tree/main/docs/json), [csv](https://github.com/aimldl/agentic-ai-references/tree/main/docs/csv)| [images](https://github.com/aimldl/agentic-ai-references/tree/main/assets/images), [audio](https://github.com/aimldl/agentic-ai-references/tree/main/assets/audio) | DRAWIO, SQL, JSON, Terraform |
+| Types | [pdf](https://github.com/aimldl/agentic-ai-references/tree/main/docs/pdf), [md](https://github.com/aimldl/agentic-ai-references/tree/main/docs/md), [json](https://github.com/aimldl/agentic-ai-references/tree/main/docs/json), [csv](https://github.com/aimldl/agentic-ai-references/tree/main/docs/csv)| [images](https://github.com/aimldl/agentic-ai-references/tree/main/assets/images), [audio](https://github.com/aimldl/agentic-ai-references/tree/main/assets/audio) | DRAWIO, SQL, JSON, Terraform |
